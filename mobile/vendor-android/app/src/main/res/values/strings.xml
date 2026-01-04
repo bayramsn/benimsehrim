@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benim Şehrim Esnaf</string>
+    <string name="app_tagline">Esnaf Paneli</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard">Gösterge Paneli</string>
+    <string name="today_orders">Bugünkü Siparişler</string>
+    <string name="today_revenue">Bugünkü Gelir</string>
+    <string name="pending_orders">Bekleyen Siparişler</string>
+    <string name="products">Ürünler</string>
+    <string name="campaigns">Kampanyalar</string>
+    <string name="settings">Ayarlar</string>
+    
+    <!-- Orders -->
+    <string name="new_order">Yeni Sipariş!</string>
+    <string name="accept_order">Kabul Et</string>
+    <string name="reject_order">Reddet</string>
+    <string name="start_preparing">Hazırlamaya Başla</string>
+    <string name="order_ready">Sipariş Hazır</string>
+    <string name="order_details">Sipariş Detayı</string>
+    <string name="customer_name">Müşteri Adı</string>
+    <string name="order_items">Ürünler</string>
+    <string name="order_note">Sipariş Notu</string>
+    <string name="assign_courier">Kurye Ata</string>
+    
+    <!-- Products -->
+    <string name="add_product">Ürün Ekle</string>
+    <string name="edit_product">Ürün Düzenle</string>
+    <string name="product_name">Ürün Adı</string>
+    <string name="product_price">Fiyat</string>
+    <string name="product_description">Açıklama</string>
+    <string name="product_category">Kategori</string>
+    <string name="product_stock">Stok</string>
+    <string name="in_stock">Stokta</string>
+    <string name="out_of_stock">Stok Yok</string>
+    
+    <!-- Settings -->
+    <string name="store_info">Mağaza Bilgileri</string>
+    <string name="working_hours">Çalışma Saatleri</string>
+    <string name="min_order_amount">Minimum Sipariş Tutarı</string>
+    <string name="delivery_fee">Teslimat Ücreti</string>
+    <string name="notifications_settings">Bildirim Ayarları</string>
+    <string name="open_store">Mağazayı Aç</string>
+    <string name="close_store">Mağazayı Kapat</string>
+    
+    <!-- General -->
+    <string name="loading">Yükleniyor…</string>
+    <string name="error">Hata</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="cancel">İptal</string>
+    <string name="confirm">Onayla</string>
+    <string name="save">Kaydet</string>
+    <string name="logout">Çıkış Yap</string>
+</resources>

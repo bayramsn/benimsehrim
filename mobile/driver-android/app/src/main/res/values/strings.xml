@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benim Şehrim Sürücü</string>
+    <string name="app_tagline">Taksi ve Kurye</string>
+    
+    <!-- Home -->
+    <string name="go_online">Çevrimiçi Ol</string>
+    <string name="go_offline">Çevrimdışı Ol</string>
+    <string name="online">Çevrimiçi</string>
+    <string name="offline">Çevrimdışı</string>
+    <string name="waiting_for_task">Görev Bekleniyor…</string>
+    
+    <!-- Tasks -->
+    <string name="new_ride_request">Yeni Yolculuk Talebi!</string>
+    <string name="new_delivery_request">Yeni Teslimat Talebi!</string>
+    <string name="accept">Kabul Et</string>
+    <string name="reject">Reddet</string>
+    <string name="navigate">Navigasyon</string>
+    <string name="arrived_pickup">Alış Noktasına Vardım</string>
+    <string name="start_ride">Yolculuğu Başlat</string>
+    <string name="complete_ride">Yolculuğu Tamamla</string>
+    <string name="picked_up">Alındı</string>
+    <string name="delivery_completed">Teslimat Tamamlandı</string>
+    
+    <!-- Ride Details -->
+    <string name="passenger_name">Yolcu</string>
+    <string name="pickup_address">Alış Adresi</string>
+    <string name="dropoff_address">Bırakış Adresi</string>
+    <string name="distance">Mesafe</string>
+    <string name="estimated_time">Tahmini Süre</string>
+    <string name="fare">Ücret</string>
+    
+    <!-- Earnings -->
+    <string name="earnings">Kazançlar</string>
+    <string name="today_earnings">Bugünkü Kazanç</string>
+    <string name="weekly_earnings">Haftalık Kazanç</string>
+    <string name="monthly_earnings">Aylık Kazanç</string>
+    <string name="total_rides">Toplam Yolculuk</string>
+    <string name="total_deliveries">Toplam Teslimat</string>
+    <string name="rating">Puan</string>
+    
+    <!-- Settings -->
+    <string name="vehicle_info">Araç Bilgileri</string>
+    <string name="documents">Belgeler</string>
+    <string name="notification_settings">Bildirim Ayarları</string>
+    <string name="taxi_mode">Taksi Modu</string>
+    <string name="courier_mode">Kurye Modu</string>
+    
+    <!-- General -->
+    <string name="loading">Yükleniyor…</string>
+    <string name="error">Hata</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="cancel">İptal</string>
+    <string name="confirm">Onayla</string>
+    <string name="logout">Çıkış Yap</string>
+</resources>

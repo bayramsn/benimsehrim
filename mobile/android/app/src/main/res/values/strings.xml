@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benim Şehrim</string>
+    <string name="radar_publishable_key">prj_live_pk_2236158787948b533ce1dc393adb893971e14e29</string>
+    <string name="radar_map_style">radar-default-v1</string>
+</resources>

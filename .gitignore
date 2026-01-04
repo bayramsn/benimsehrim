@@ -1,0 +1,75 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.pem
+.cache/
+tmp/
+temp/
+
+# Mobile - Android
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/local.properties
+mobile/android/app/google-services.json
+*.keystore
+*.jks
+
+# Mobile - iOS
+mobile/ios/BenimSehrim/BenimSehrim.xcodeproj/project.xcworkspace/
+mobile/ios/BenimSehrim/BenimSehrim.xcodeproj/xcuserdata/
+mobile/ios/BenimSehrim/BenimSehrim/GoogleService-Info.plist
+mobile/ios/Pods/
+*.xcuserstate
+
+# Backend
+backend/uploads/
+backend/.env*
+!backend/.env.example
+
+# Admin
+admin/dist/
+
+# Docker
+docker-compose.override.yml
+
+# Secrets
+*.pem
+*.key
+firebase-admin*.json
+service-account*.json

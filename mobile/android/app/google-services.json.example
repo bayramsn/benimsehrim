@@ -1,0 +1,41 @@
+// Placeholder for google-services.json
+// 
+// Download from Firebase Console:
+// 1. Go to https://console.firebase.google.com
+// 2. Select your project
+// 3. Click on Android app (com.benimsehrim.app)
+// 4. Download google-services.json
+// 5. Replace this file with the downloaded one
+//
+// Example structure:
+/*
+{
+  "project_info": {
+    "project_number": "123456789",
+    "project_id": "benimsehrim-xxxxx",
+    "storage_bucket": "benimsehrim-xxxxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcdef123456",
+        "android_client_info": {
+          "package_name": "com.benimsehrim.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIza..."
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+*/
